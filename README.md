@@ -1,8 +1,8 @@
 # 📘 Exercícios APC | Exercises for APC discipline
 
->  Repositório acadêmico com exercícios de Algoritmos e Programação de Computadores focado no desenvolvimento de lógica e fundamentos em C e Python.
+>  Repositório acadêmico com exercícios de Algoritmos e Programação de Computadores focado no desenvolvimento de lógica e fundamentos em C.
 
->  Academic repository containing Computer Algorithms and Programming exercises focused on logic development and core foundations using C and Python.
+>  Academic repository containing Computer Algorithms and Programming exercises focused on logic development and core foundations using C.
 
 ---
 
